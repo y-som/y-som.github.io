@@ -1,4 +1,4 @@
-#Yash Somaiya
+# Yash Somaiya
 
 I am a 5th year graduate student at the University of Southern California working in motivic homotopy theory, advised by Aravind Asok. Previously, I was an undergraduate at UC Berkeley from 2017-2021. 
 
